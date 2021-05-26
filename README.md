@@ -1,7 +1,7 @@
 # Python First Excersises - Freecodecamp.org
 
 Welcome to one of my very firsts projects for learning and developing Python programming language.
-Here you'll find some games and entry-level excersises from [freeCodeCamp](https://www.freecodecamp.org/) based on [Kylie Ying](https://github.com/kying18)'s YouTube tutorial (https://www.youtube.com/watch?v=8ext9G7xspg&t=1444s&ab_channel=freeCodeCamp.org).
+Here you'll find some games and entry-level excersises from [freeCodeCamp](https://www.freecodecamp.org/) based on [Kylie Ying](https://github.com/kying18)'s YouTube tutorial (https://youtu.be/8ext9G7xspg).
 
 ## Description
 
